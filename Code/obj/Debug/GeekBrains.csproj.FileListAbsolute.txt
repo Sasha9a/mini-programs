@@ -1,0 +1,27 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\bin\Debug\GeekBrains.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\bin\Debug\GeekBrains.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\bin\Debug\GeekBrains.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\obj\Debug\GeekBrains.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\obj\Debug\GeekBrains.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\obj\Debug\GeekBrains.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\obj\Debug\GeekBrains.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\obj\Debug\GeekBrains.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\GeekBrains\GeekBrains\obj\Debug\GeekBrains.pdb
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\bin\Debug\GeekBrains.exe.config
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\obj\Debug\GeekBrains.exe
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\obj\Debug\GeekBrains.pdb
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\bin\Debug\GeekBrains.exe
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\bin\Debug\GeekBrains.pdb
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\obj\Debug\GeekBrains.csprojResolveAssemblyReference.cache
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\obj\Debug\GeekBrains.Form1.resources
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\obj\Debug\GeekBrains.Properties.Resources.resources
+C:\Users\user-210-01\Documents\10-В\GeekBrains\GeekBrains\obj\Debug\GeekBrains.csproj.GenerateResource.Cache
+E:\GeekBrains\GeekBrains\bin\Debug\GeekBrains.exe.config
+E:\GeekBrains\GeekBrains\bin\Debug\GeekBrains.exe
+E:\GeekBrains\GeekBrains\bin\Debug\GeekBrains.pdb
+E:\GeekBrains\GeekBrains\obj\Debug\GeekBrains.csprojResolveAssemblyReference.cache
+E:\GeekBrains\GeekBrains\obj\Debug\GeekBrains.Form1.resources
+E:\GeekBrains\GeekBrains\obj\Debug\GeekBrains.Properties.Resources.resources
+E:\GeekBrains\GeekBrains\obj\Debug\GeekBrains.csproj.GenerateResource.Cache
+E:\GeekBrains\GeekBrains\obj\Debug\GeekBrains.exe
+E:\GeekBrains\GeekBrains\obj\Debug\GeekBrains.pdb
